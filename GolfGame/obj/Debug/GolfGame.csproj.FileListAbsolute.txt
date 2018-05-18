@@ -1,0 +1,7 @@
+C:\Users\Lexicon\source\repos\GolfGame\GolfGame\bin\Debug\GolfGame.exe.config
+C:\Users\Lexicon\source\repos\GolfGame\GolfGame\bin\Debug\GolfGame.exe
+C:\Users\Lexicon\source\repos\GolfGame\GolfGame\bin\Debug\GolfGame.pdb
+C:\Users\Lexicon\source\repos\GolfGame\GolfGame\obj\Debug\GolfGame.csprojResolveAssemblyReference.cache
+C:\Users\Lexicon\source\repos\GolfGame\GolfGame\obj\Debug\GolfGame.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\source\repos\GolfGame\GolfGame\obj\Debug\GolfGame.exe
+C:\Users\Lexicon\source\repos\GolfGame\GolfGame\obj\Debug\GolfGame.pdb
